@@ -1,0 +1,144 @@
+[Root]
+Most Recent Package=Standardm‰ﬂiges Setup-Paket 1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Paket
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Released]
+unzip.dll=
+uxtheusercontrol.dll=
+User.DLL=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\shlwapi.dll=
+C:\WINDOWS\system32\msimg32.dll=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\Msinet.OCX=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Added]
+d:\dateien\eigene dateien\projekte\visual basic\antivirus2004 (4.0)\help\copyright.htm=
+d:\dateien\eigene dateien\projekte\visual basic\antivirus2004 (4.0)\help\index-tab.txt=
+d:\dateien\eigene dateien\projekte\visual basic\antivirus2004 (4.0)\help\startup.htm=
+d:\dateien\eigene dateien\projekte\visual basic\antivirus2004 (4.0)\help\welcome.htm=
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\signatures.db=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files In Project]
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\AntiVirus.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6DE.DLL=Yes
+C:\WINDOWS\system32\msvbvm50.dll=Yes
+C:\WINDOWS\system32\msimg32.dll=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\Msinet.OCX=Yes
+C:\WINDOWS\system32\INETDE.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCDE.DLL=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\RCHTXDE.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTDE.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\copyright.htm=Yes
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Index-tab.txt=Yes
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Startup.htm=Yes
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Welcome.htm=Yes
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\signatures.db=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Install Locations]
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\AntiVirus.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6DE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msvbvm50.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msimg32.dll=$(WinSysPath)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\Msinet.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETDE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCDE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXDE.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTDE.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\copyright.htm=$(AppPath)
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Index-tab.txt=$(AppPath)
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Startup.htm=$(AppPath)
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Welcome.htm=$(AppPath)
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\signatures.db=$(AppPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Shared Files]
+Applicable=Yes
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\AntiVirus.exe=No
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\copyright.htm=No
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Index-tab.txt=No
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Startup.htm=No
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Help\Welcome.htm=No
+D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\signatures.db=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Distribution]
+Type=single
+Size=
+Title=CCAntiVirus 2004
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Package]
+PackageFolder=D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Paket
+ProjectFolder=D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)
+ServerSideCab=
+File1=D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Paket\setup.exe
+File2=D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Paket\Setup.Lst
+File3=D:\Dateien\Eigene Dateien\Projekte\Visual Basic\AntiVirus2004 (4.0)\Paket\AntiVirus.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|IconGroups]
+Group0=CCAntiVirus 2004
+PrivateGroup0=Falsch
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|CCAntiVirus 2004]
+Icon1=AntiVirus.exe
+Title1=CCAntiVirus 2004
+StartIn1=$(AppPath)
+Key1=Icon1

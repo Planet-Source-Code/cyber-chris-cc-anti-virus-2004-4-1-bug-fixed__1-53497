@@ -1,0 +1,70 @@
+This code may be reused and modified for non-commercial
+purposes only as long as credit is given to the author
+in the programm's about box and it's documentation.
+If you use this code, please email me and let me know what
+you think about this code and what you are doing with it.
+
+
+The source is freely available at http://www.pscode.com
+
+Thanks to:
+	Manfred Nassi: for his big help
+	JJR and my Dad: Italian translation	
+	Paulo Cezar(Sharmaq System): Portuguese translation
+	Johannes: for storing my files on his Webspace
+	Patabugen: for storing my files on his Webscpace 
+		   (www.patabugen.co.uk)
+	Paul: for his great CRC32 Checksum Algorithm
+
+	And to those who gave me hints and tips to improve 
+	my code!!!
+
+
+Award:
+	Planet Source Code: Superior Coding Contest Winner 
+
+
+Revision List:
+
+Version 4.1
+	ADDED: Translation is now stored in Languagepacks
+	ADDED: Italian language
+	FIXED: Crash on scanning File while AFM scans Directory
+	ADDED: Portuguese Language
+	FIXED: program crash on update (Thanks to PSC Users!)
+	Improved the Menu
+	ADDED: Sound notifification
+	ADDED: Active File Monitor function (AFM)
+	ADDED: Error handling
+
+Version 4.0
+	FIXED: Program won't freeze while scanning
+	files > 2MB
+	Multilingual Interface
+	ADDED: Effect to Linklabel
+	ADDED: possiblility to scan for strings
+
+Version 3.1
+	Small bug in Auto Update function fixed
+
+Version 3.0
+	ADDED: functionality for ZIP - File checking
+	Improved algorithm
+	ADDED: possibility to scan script files
+	ADDED: Reporting functions
+	Signature File updated to 17 entries
+	Small bug with the menu fixed
+
+Version 2.2
+	FIXED: Small bug in Scanning Engine 
+
+Version 2.1
+	New Online DB
+
+Version 2.0
+	Search algorithm improoved
+	Changed to Checksum scanning
+	Full path search implemented
+
+Version 1.0
+	First Release
